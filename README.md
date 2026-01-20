@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey" />
+  <img src="https://img.shields.io/badge/languages:%20spanish%20and%20english-fffff" />
 </p>
 
 ---
